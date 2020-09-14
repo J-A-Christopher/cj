@@ -1,0 +1,11 @@
+.container{
+    height: 200px;
+    width: 500px;
+    margin: 0 auto;
+    background-color: black;
+    color: white;
+}
+
+#amount,#rate,#months{
+    margin-bottom: 5px;
+}
